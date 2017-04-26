@@ -6,7 +6,7 @@
 ```
 php -S localhost:8000
 ```
-2. go to URL. In this case it'll be:
+2. Go to URL. Here it'll be:
 http://localhost:8000
 
 Start point of the app is *index.html*
