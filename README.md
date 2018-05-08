@@ -1,6 +1,6 @@
 # vue-learning
 
-### To start using app with vue.
+### To start using app with vue (if you are using PHP).
 
 1. Launch server. Enough embedded php server:
 ```
